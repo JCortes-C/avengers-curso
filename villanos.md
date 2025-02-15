@@ -1,5 +1,5 @@
 # Villanos 
 
 * Dr. Doom 
-* Red Skull 
-* Ing.Cortes 
+* Red Skull  
+* Capitan Aamérica 
